@@ -1,8 +1,8 @@
-# Welcome to My Unity Tools! :tada:
+# Welcome to My GameDev Tools! :tada:
 
 This is a **nonprofit** project to help Unity developers focus on what they do best: **create awesome games**.
 
-It's called _"My"_ Unity Tools as if it were your very own personal tools, which you carry alongside all your projects.
+It's called _"My"_ GameDev Tools as if it were your very own personal tools, which you carry alongside all your projects.
 
 We hope that you can contribute to the packages in this project.
 
