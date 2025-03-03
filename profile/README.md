@@ -1,6 +1,6 @@
 # Welcome to My GameDev Tools! :tada:
 
-This is a **nonprofit** project to help Unity developers focus on what they do best: **create awesome games**.
+This is an **open-source** project to help Unity developers focus on what they do best: **create awesome games**.
 
 It's called _"My"_ GameDev Tools as if it were your very own personal tools, which you carry alongside all your projects.
 
